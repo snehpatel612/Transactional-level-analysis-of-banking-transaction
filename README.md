@@ -1,4 +1,3 @@
-# Transactional-level-analysis-of-banking-transaction
 # 💳 Banking Analytics Project: Enhancing Customer Profitability, Risk Management & Digital Engagement
 
 ## 📌 Project Title
